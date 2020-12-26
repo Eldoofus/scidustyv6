@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "name": "dusty",
+  "displayName": "Scidustry Mod",
+  "author": "Eldoofus",
+  "description": "A mod for Scidustry",
+  "version": "0.1",
+  "main": "dusty.Scidustrymod",
+  "minGameVersion": "121",
   "dependencies": [],
   "hidden": false
 }
