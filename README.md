@@ -1,5 +1,5 @@
-# Scidustry Mod
-A mod for Scidustry.
+# scidustrymod
 
-# Compiling
-If you dont know how, you shouldn't be using this.
+Mod for Scidustry.
+
+Join Scidustry at https://discord.gg/QFdfc6T
